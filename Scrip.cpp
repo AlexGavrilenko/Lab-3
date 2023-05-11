@@ -14,6 +14,6 @@ int main() {
         }
         result *= sqrt(factorial);
     }
-    
+    cout << "asfafasf" <<
     return 0;
 }
