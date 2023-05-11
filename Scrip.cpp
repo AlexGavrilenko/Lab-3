@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    const int n = 550;
+    const int n = 1000;
     double result = 1.0;
     
     for (int i = 1; i <= n; i++) {
